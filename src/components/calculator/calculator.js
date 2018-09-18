@@ -89,7 +89,6 @@ class Calculator extends Component {
     compute() {
         const { displayValue } = this.state;
         const { value1 } = this.state;
-        const { value2 } = this.state;
         const { operator } = this.state;
 
         if (value1 && operator) {
