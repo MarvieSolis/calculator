@@ -15,4 +15,4 @@ This calculator utilizes the manipulation of states in order to grab data and pe
 - [Materialize](https://materializecss.com/): Used to assist in establishing the layout and color scheme.
 
 ## The Site is live!
-[Click here to see the page on Heroku!](https://marviesolis.github.io/calculator/)
+[Click here to see the page on Github Pages!](https://marviesolis.github.io/calculator/)
